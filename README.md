@@ -93,4 +93,4 @@ Summary of findings with insights on how to structure prompts for optimal result
 | **5. Opinion / Argument Pattern** | Seeks views, reasoning, or argumentative discussion.                            | *“Do you think AI will replace human jobs? Give reasons.”*                                   | - Encourages critical thinking. <br> - Produces balanced reasoning.                 | - Can be subjective. <br> - May lack strong evidence unless specified.                     | Debates, essays, personal reflections.                    |
 | **6. Scenario Pattern**           | Poses a hypothetical or real-world situation and asks AI to respond in context. | *“Imagine you are a doctor. How would you use AI to improve patient diagnosis?”*             | - Produces creative, applied responses. <br> - Makes answers context-specific.      | - Sometimes too imaginative. <br> - May ignore technical accuracy if not guided.           | Case studies, role-play, applied learning, brainstorming. |
 
-# RESULT: The prompt for the above said problem executed successfully
+### RESULT: The prompt for the above said problem executed successfully
